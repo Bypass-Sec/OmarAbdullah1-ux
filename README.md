@@ -1,4 +1,4 @@
-# 💻 Omar Abdulla | Full-Stack Developer | Cybersecurity & Machine Learning Enthusiast
+#  Omar Abdulla | Full-Stack Developer | Cybersecurity & Machine Learning Enthusiast
 
 Hello! I'm **Omar Abdulla**, a student and developer passionate about **Cybersecurity**, **Web Development**, and **Machine Learning**. I'm constantly exploring new technologies, building secure applications, and diving into AI to make smarter, more efficient systems. Let's innovate together! 🤖
 
@@ -35,7 +35,7 @@ Hello! I'm **Omar Abdulla**, a student and developer passionate about **Cybersec
 
 ## 🌍 Let's Connect!
 
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/omar-abdalla-2b7278339/))
+- 💼 [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/omar-abdalla-2b7278339/))
 
 ---
 
