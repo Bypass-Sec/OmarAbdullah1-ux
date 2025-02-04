@@ -31,7 +31,7 @@ Hello! I'm **Omar Abdulla**, a student and developer passionate about **Cybersec
 
 ## 🌍 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/omar-abdalla-2b7278339/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/omar-abdalla-2b7278339/)
 
 ---
 
